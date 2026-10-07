@@ -1,70 +1,49 @@
-# MCCP
-Codeforces, LeetCode, CSES, CodeChef &amp; GeeksforGeeks solutions, organized cleanly by rating, topic, contest and difficulty. Synced by SolveBase.
+<div align="center">
+
+# 🧠 Coding Solutions
+
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-10--7--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
 
 ---
 
-<!-- cf-sync -->
-# Competitive Programming Solutions
-
-Synced automatically by SolveBase.
-
-**Total solved: 20**
-
-## Codeforces
-
-Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficulty rating.
-
-**Solved: 0**
+## 📊 Stats
 
 | Difficulty | Solved |
-| --- | --- |
-| — | 0 |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **1** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
 
+## 🛠️ Languages
 
-## LeetCode
+| Language | Solutions |
+|:---:|:---:|
+| Java | **1** |
 
-Solutions organized by primary topic folder.
+## 📂 Repository Structure
 
-**Solved: 2**
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
 
-| Topic | Solved |
-| --- | --- |
-| [binary-search](./leetcode/binary-search) | 2 |
+---
 
+<div align="center">
 
-## CSES
+*Last updated: 2026-10-07* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
-Solutions from the CSES Problem Set, organized by section.
-
-**Solved: 0**
-
-| Section | Solved |
-| --- | --- |
-| — | 0 |
-
-
-## CodeChef
-
-Solutions organized by difficulty rating.
-
-**Solved: 16**
-
-| Difficulty | Solved |
-| --- | --- |
-| [900](./codechef/900) | 2 |
-| [Unrated](./codechef/Unrated) | 14 |
-
-
-## GeeksforGeeks
-
-Solutions organized by difficulty level.
-
-**Solved: 2**
-
-| Difficulty | Solved |
-| --- | --- |
-| [Easy](./geeksforgeeks/Easy) | 2 |
-
-
-_Last updated: 2026-10-07_
-<!-- /cf-sync -->
+</div>
