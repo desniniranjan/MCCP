@@ -73,7 +73,7 @@ There is no way to reduce the array to a single element.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T10:18:55.666Z  
+**Submitted:** 2026-10-14T10:19:35.957Z  
 
 ```java
 public static boolean canReduce(int n, int[] a) {
@@ -81,8 +81,7 @@ public static boolean canReduce(int n, int[] a) {
     Arrays.sort(a);
     int q=0;
     for(int i=0;i<n-1;i++){
-        if(q>1) return false;
-        if(a[i+1]-a[i]<1) q++;
+        if(a[i+1]-a[i]>1) return false;
     }
     return true;
 }
