@@ -49,7 +49,7 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T10:34:06.291Z  
+**Submitted:** 2026-10-14T10:34:48.059Z  
 
 ```java
 import java.util.*;
@@ -66,7 +66,7 @@ public class Main {
             }
             // your code goes here
             Arrays.sort(a);
-            int s=0;
+            long s=0;
             int i=(a.length%2==0)?1:0;
             for(;i<n;i+=2){
                 s+=a[i];
