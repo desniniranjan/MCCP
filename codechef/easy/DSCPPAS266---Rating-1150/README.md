@@ -73,7 +73,7 @@ There is no way to reduce the array to a single element.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T10:19:35.957Z  
+**Submitted:** 2026-10-14T10:20:10.812Z  
 
 ```java
 public static boolean canReduce(int n, int[] a) {
