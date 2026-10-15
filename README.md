@@ -57,7 +57,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 33**
+**Total solved: 34**
 
 ## Codeforces
 
@@ -98,14 +98,14 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 26**
+**Solved: 27**
 
 | Difficulty | Solved |
 | --- | --- |
 | [900](./codechef/900) | 2 |
 | [easy](./codechef/easy/DSCPPAS266---Rating-1150) | 1 |
 | [medium](./codechef/medium) | 4 |
-| [Unrated](./codechef/Unrated) | 19 |
+| [Unrated](./codechef/Unrated) | 20 |
 
 
 ## GeeksforGeeks
