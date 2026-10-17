@@ -57,7 +57,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 38**
+**Total solved: 39**
 
 ## Codeforces
 
@@ -74,14 +74,14 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 5**
+**Solved: 6**
 
 | Topic | Solved |
 | --- | --- |
 | [easy](./leetcode/easy/0643-maximum-average-subarray-i) | 1 |
 | [hard](./leetcode/hard/0154-find-minimum-in-rotated-sorted-array-ii) | 1 |
 | [medium](./leetcode/medium/0033-search-in-rotated-sorted-array) | 1 |
-| [sliding-window](./leetcode/sliding-window) | 2 |
+| [sliding-window](./leetcode/sliding-window) | 3 |
 
 
 ## CSES
